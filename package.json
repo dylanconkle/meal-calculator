@@ -1,0 +1,11 @@
+{
+  "name": "meal-calculator",
+  "version": "1.0.0",
+  "description": "Basic meal calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Conkle",
+  "license": "ISC"
+}
